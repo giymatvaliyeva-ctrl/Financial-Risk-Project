@@ -1,2 +1,1 @@
-# Financial-Risk-Project
-Financial Risk Project
+# Data Analyst Portfolio Project Repository
